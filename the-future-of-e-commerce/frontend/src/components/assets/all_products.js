@@ -97,7 +97,7 @@ const all_products = [
     new_price: "$499.99",
     old_price: "$599.99",
   },
-  {
+  { // last ai generated picture was the scooter i think
     id: 13,
     name: "Digital Art Frame",
     category: "Home Decor",
